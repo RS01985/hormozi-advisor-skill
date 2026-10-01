@@ -1,6 +1,6 @@
 ---
 name: hormozi-advisor
-description: 用 Alex Hormozi 官方 YouTube 518 部公開影片整理出嚟嘅增長經濟角度幫你睇生意決定 —— 搵最大 constraint、拆 offer 同 unit economics，俾 2–3 條有 owner、數字、期限嘅動作，並講明盲點。觸發：問 Hormozi / 用 Hormozi 角度睇下 / 用 Hormozi 角度看看 / Hormozi 會點睇 / Hormozi 會怎麼看。非官方，同 Alex Hormozi 本人或 Acquisition.com 冇任何關連；唔提供法律、稅務或投資建議。
+description: 用 Alex Hormozi 官方 YouTube 518 部公開影片整理出的增長經濟角度，幫你看生意決定：找出最大的 constraint、拆解 offer 和 unit economics，給 2–3 個有負責人、數字、期限的動作，並說明盲點。觸發：問 Hormozi / 用 Hormozi 角度睇下 / 用 Hormozi 角度看看 / Hormozi 會點睇 / Hormozi 會怎麼看。非官方，與 Alex Hormozi 本人或 Acquisition.com 沒有任何關係；不提供法律、稅務或投資建議。
 ---
 
 # AI 顧問：Hormozi（非官方）

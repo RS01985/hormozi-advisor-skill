@@ -44,7 +44,7 @@ Talent／Systems／Leverage：移除下一個 constraint
 
 ## 一、Sales：成交是診斷與信念轉移，不是話術壓迫
 
-### 1. 先理解，再說服 〔降級:啟發式〕
+### 1. 先理解，再說服 〔降級：啟發式〕
 
 Sales conversation 的第一個任務不是介紹產品，而是弄清 prospect 的現況、目標、過往嘗試、障礙、代價與決策條件。問題應自然承接上一個答案；重述則用來確認理解，不是把 salesperson 的結論塞回客戶口中。
 
@@ -52,7 +52,7 @@ Sales conversation 的第一個任務不是介紹產品，而是弄清 prospect 
 
 代表影片：[116](https://www.youtube.com/watch?v=StVqS0jD7Ls)、[436](https://www.youtube.com/watch?v=q32-l3Yoqg4)、[464](https://www.youtube.com/watch?v=CojS0DwflXc)。
 
-### 2. Objection 通常是未解決的 belief 〔降級:啟發式〕
+### 2. Objection 通常是未解決的 belief 〔降級：啟發式〕
 
 價格、時間、伴侶、需要考慮等表面 objection，背後可能是對結果、自己、產品、信任或決策風險的信念。好的處理方法是 acknowledge、澄清真正問題、連回已說出的目標，再提供選項；不是用 looping 令對方疲勞。
 
@@ -60,7 +60,7 @@ Sales conversation 的第一個任務不是介紹產品，而是弄清 prospect 
 
 代表影片：[137](https://www.youtube.com/watch?v=RVbvhPGFi6E)、[346](https://www.youtube.com/watch?v=oi7bnS8uyJM)、[452](https://www.youtube.com/watch?v=ETEFhDICm5o)。
 
-### 3. Conviction 必須來自產品真相 〔降級:啟發式〕
+### 3. Conviction 必須來自產品真相 〔降級：啟發式〕
 
 Sales belief 會影響語氣、follow-up 速度和活動量，但強烈信念若建立在壞產品上，只會更有效率地傷害客戶。Sales team 應看見 onboarding、成果、失敗、退款及適用邊界，知道何時推薦，也知道何時說不適合。
 
@@ -68,7 +68,7 @@ Sales belief 會影響語氣、follow-up 速度和活動量，但強烈信念若
 
 代表影片：[284](https://www.youtube.com/watch?v=bx48qPlaGvE)、[427](https://www.youtube.com/watch?v=42SOlVhDwWE)、[507](https://www.youtube.com/watch?v=iwskrByMIqo)。
 
-### 4. Close 是清楚提出下一步 〔降級:啟發式〕
+### 4. Close 是清楚提出下一步 〔降級：啟發式〕
 
 客戶被完整理解、方案與價格被準確說明後，close 可以很直接：總結 fit、責任、風險和選項，再問是否開始。Assumed close、no-oriented questions 或 either／or 只適合低複雜、已知情的選擇，不能取代同意。
 
@@ -76,7 +76,7 @@ Sales belief 會影響語氣、follow-up 速度和活動量，但強烈信念若
 
 代表影片：[307](https://www.youtube.com/watch?v=Ul87yrDKZ78)、[482](https://www.youtube.com/watch?v=xy1h4qqF778)、[504](https://www.youtube.com/watch?v=j1tA4l7R2c0)。
 
-### 5. Sales performance 是活動量 × 每段轉換 〔降級:啟發式〕
+### 5. Sales performance 是活動量 × 每段轉換 〔降級：啟發式〕
 
 成交數不是單靠 close rate。需要同時看 opportunities、response、booking、show、close、cash、refund 和後續結果。小樣本的漂亮 conversion 可能不及較低 conversion、較大 volume 帶來的總 contribution profit。
 
@@ -84,7 +84,7 @@ Sales belief 會影響語氣、follow-up 速度和活動量，但強烈信念若
 
 代表影片：[164](https://www.youtube.com/watch?v=cy2k1GdA-9o)、[220](https://www.youtube.com/watch?v=c_6BrF7jOGk)、[483](https://www.youtube.com/watch?v=vHi18F4yyH4)。
 
-### 6. 團隊要靠 game tape，不靠激情 〔降級:啟發式〕
+### 6. 團隊要靠 game tape，不靠激情 〔降級：啟發式〕
 
 可擴張 sales team 需要清楚角色、script／framework、合法錄音、call review、role-play、scoreboard、coaching cadence、合理 compensation 與公平績效制度。創辦人的一次示範不能代替訓練系統。
 
@@ -104,7 +104,7 @@ Sales belief 會影響語氣、follow-up 速度和活動量，但強烈信念若
 
 代表影片：[158](https://www.youtube.com/watch?v=07jC6ooRIHw)、[476](https://www.youtube.com/watch?v=LqC-oXjatmA)、[481](https://www.youtube.com/watch?v=4XWlHPyAico)。
 
-### 2. 從客戶目前的 belief 開始 〔降級:啟發式〕
+### 2. 從客戶目前的 belief 開始 〔降級：啟發式〕
 
 專家知道終點，但 prospect 只感受到表面問題。Marketing 要先用客戶現時能理解的語言、欲望與痛苦取得第一步注意，再在 sales 和 delivery 引導更深的機制；不能由專家最終答案直接開場。
 
@@ -112,15 +112,15 @@ Sales belief 會影響語氣、follow-up 速度和活動量，但強烈信念若
 
 代表影片：[88](https://www.youtube.com/watch?v=JDR-R--4HhM)、[486](https://www.youtube.com/watch?v=1IhvZC-Wpqs)、[513](https://www.youtube.com/watch?v=kGfzLjPNsBU)。
 
-### 3. 一個訊息只推進一個大 idea 〔降級:不收〕
+### 3. 一個訊息只推進一個大 idea 〔降級：不收〕
 
 強 copy 不是 toss-salad 式堆砌好處，而是為一個 avatar、問題與 promise 建立一個易懂、可信、有興趣的大 idea。Headline、proof、mechanism 和 CTA 都服務同一判斷。
 
-**應用：**每份 campaign 寫一句「讀者看完只需要相信甚麼？」；不能服務這句的段落先刪掉。
+**應用：**每份 campaign 寫一句「讀者看完只需要相信什麼？」；不能服務這句的段落先刪掉。
 
 代表影片：[88](https://www.youtube.com/watch?v=JDR-R--4HhM)、[485](https://www.youtube.com/watch?v=OyGKFhTf0go)、[513](https://www.youtube.com/watch?v=kGfzLjPNsBU)。
 
-### 4. 內容是信任和 nurture 資產 〔降級:啟發式〕
+### 4. 內容是信任和 nurture 資產 〔降級：啟發式〕
 
 Organic content 的作用不是每次硬賣，而是長期證明判斷、能力與產品真相。Give 應完整解決一個窄問題；Ask 則為已準備好的受眾提供明確下一步。創作者厭倦訊息，不代表市場已看夠。
 
@@ -128,7 +128,7 @@ Organic content 的作用不是每次硬賣，而是長期證明判斷、能力�
 
 代表影片：[149](https://www.youtube.com/watch?v=UGEc9-7X3OQ)、[176](https://www.youtube.com/watch?v=reisEL_D7xc)、[296](https://www.youtube.com/watch?v=MD5-HByRxoA)。
 
-### 5. Lead quality 和 volume 必須一起計 〔降級:啟發式〕
+### 5. Lead quality 和 volume 必須一起計 〔降級：啟發式〕
 
 Targeting、更多申請步驟、付費入口、較窄 offer 可提高表面 lead quality，但通常降低 volume 並提高成本。最終應看每千 impressions／leads 帶來多少合適 sales、cash、gross profit 和成功客戶。
 
@@ -152,11 +152,11 @@ Lifetime gross profit 決定理論 acquisition 上限，完整 CAC 說明取得�
 
 感知價值可用四個方向理解：提高夢想結果，提高相信會成功的程度，縮短等待時間，減少客戶需要付出的努力與犧牲。不是四項都堆 bonus，而是找最影響選擇的一項。
 
-**應用：**逐項問：客戶真正想要甚麼？何種 proof 提高可信度？哪一段 delay 最痛？哪一項 effort 最容易移除？
+**應用：**逐項問：客戶真正想要什麼？何種 proof 提高可信度？哪一段 delay 最痛？哪一項 effort 最容易移除？
 
 代表影片：[222](https://www.youtube.com/watch?v=4GjwtnA76ig)、[272](https://www.youtube.com/watch?v=5MHQr-Z17Hc)、[374](https://www.youtube.com/watch?v=neTSqOAMgao)。
 
-### 2. Offer 是市場與產品之間的橋 〔降級:啟發式〕
+### 2. Offer 是市場與產品之間的橋 〔降級：啟發式〕
 
 沒有市場需求，再漂亮的 packaging 也不會長期有效；沒有可靠產品，再強 offer 只會增加退款和聲譽損失。Offer 應準確呈現真 outcome、適用對象、交付機制與責任。
 
@@ -164,7 +164,7 @@ Lifetime gross profit 決定理論 acquisition 上限，完整 CAC 說明取得�
 
 代表影片：[135](https://www.youtube.com/watch?v=HsQeQM1jUeg)、[299](https://www.youtube.com/watch?v=NA61omfYgvI)、[503](https://www.youtube.com/watch?v=pxVeOkOVr2w)。
 
-### 3. Price 與 cost、value 不相同 〔降級:啟發式〕
+### 3. Price 與 cost、value 不相同 〔降級：啟發式〕
 
 成本只設定可持續下限，客戶 value、替代方案、風險與支付意願影響價格。低價不會自動修復 churn，高價也不能自己證明品質。價格變更要同時計 conversion、margin、retention、cash 和公平感。
 
@@ -172,7 +172,7 @@ Lifetime gross profit 決定理論 acquisition 上限，完整 CAC 說明取得�
 
 代表影片：[171](https://www.youtube.com/watch?v=41EvCgwPrDc)、[424](https://www.youtube.com/watch?v=GO6VCcLlnLs)、[484](https://www.youtube.com/watch?v=ZuFSLAw2pEI)。
 
-### 4. Guarantee 是風險配置，不是結果魔法 〔降級:啟發式〕
+### 4. Guarantee 是風險配置，不是結果魔法 〔降級：啟發式〕
 
 Risk reversal 的作用是把企業更有能力控制的風險由客戶移回供應者。好的 guarantee 有明確適用條件、客戶責任、處理方式與 reserve；不能承諾不可控制的結果。
 
@@ -188,7 +188,7 @@ Free 可降低第一次嘗試風險，但必須知道轉換與履約成本；ups
 
 代表影片：[68](https://www.youtube.com/watch?v=nSQdjim8CsE)、[234](https://www.youtube.com/watch?v=7NMH1oAkgLY)、[506](https://www.youtube.com/watch?v=gza5RtQCVsA)。
 
-### 6. Offer 最終要令客戶得到更好結果 〔降級:啟發式〕
+### 6. Offer 最終要令客戶得到更好結果 〔降級：啟發式〕
 
 提高 cash collected 而沒有提高 activation、usage、retention 或成功，只是把問題延後。真正可複利的 offer 會令 acquisition 更容易、delivery 更清楚、客戶更願意續留與推薦。
 
@@ -200,7 +200,7 @@ Free 可降低第一次嘗試風險，但必須知道轉換與履約成本；ups
 
 ## 四、營運：由結果倒推活動、時間、容量和標準
 
-### 1. 只修當前 constraint 〔降級:啟發式〕
+### 1. 只修當前 constraint 〔降級：啟發式〕
 
 企業整體產出受最窄的一環限制。Demand、sales、delivery、capacity、retention、cash 或 talent 任一項都可能成為 constraint；向非限制環節增加資源，只會堆積 inventory 或工作。
 
@@ -208,7 +208,7 @@ Free 可降低第一次嘗試風險，但必須知道轉換與履約成本；ups
 
 代表影片：[79](https://www.youtube.com/watch?v=sGv2BTUCcCM)、[375](https://www.youtube.com/watch?v=QtE6kk0158o)、[395](https://www.youtube.com/watch?v=s59jbVBprn0)。
 
-### 2. Outcome → activities → time → capacity 〔降級:啟發式〕
+### 2. Outcome → activities → time → capacity 〔降級：啟發式〕
 
 營運設計先寫客戶與企業需要的 outcome，再列產生它的 recurring activities，量每單位需要的時間與資源，最後才決定角色、SOP、automation 和招聘。
 
@@ -216,7 +216,7 @@ Free 可降低第一次嘗試風險，但必須知道轉換與履約成本；ups
 
 代表影片：[54](https://www.youtube.com/watch?v=mr4Pw66_490)、[437](https://www.youtube.com/watch?v=gpKz22P84iM)、[509](https://www.youtube.com/watch?v=JOY6ZzBMb_4)。
 
-### 3. 每個 quantity metric 配一個 quality metric 〔降級:啟發式〕
+### 3. 每個 quantity metric 配一個 quality metric 〔降級：啟發式〕
 
 單一 KPI 會被局部優化：calls 增加但 fit 下降、tickets 關閉但 reopen 上升、sales 增加但退款更高。速度、數量或收入都應配品質、風險或 downstream 結果。
 
@@ -224,7 +224,7 @@ Free 可降低第一次嘗試風險，但必須知道轉換與履約成本；ups
 
 代表影片：[143](https://www.youtube.com/watch?v=afbP6sB_Atc)、[500](https://www.youtube.com/watch?v=3oD41B66NsM)。
 
-### 4. Onboarding 是 retention 的最高槓桿區 〔降級:啟發式〕
+### 4. Onboarding 是 retention 的最高槓桿區 〔降級：啟發式〕
 
 付款後最初 24–48 小時決定客戶是否理解路徑、建立動量與相信決定。縮短 time-to-first-value、清楚 baton pass、設定 expectation 和快速處理不滿，通常比後期挽留更有效。
 
@@ -232,7 +232,7 @@ Free 可降低第一次嘗試風險，但必須知道轉換與履約成本；ups
 
 代表影片：[126](https://www.youtube.com/watch?v=QTZsh3BgOwY)、[143](https://www.youtube.com/watch?v=afbP6sB_Atc)、[219](https://www.youtube.com/watch?v=yPDQCfrwh8E)。
 
-### 5. 標準化後才自動化 〔降級:啟發式〕
+### 5. 標準化後才自動化 〔降級：啟發式〕
 
 未證實流程加 AI 或 software，只會更快複製錯誤。先由人手完成足夠 reps、找共同 decision points、刪無價值步驟、寫 QA，再把重複、低判斷部分交給工具。
 
@@ -240,7 +240,7 @@ Free 可降低第一次嘗試風險，但必須知道轉換與履約成本；ups
 
 代表影片：[04](https://www.youtube.com/watch?v=ZTSI3DDP_4A)、[21](https://www.youtube.com/watch?v=fr78adfAnuA)、[259](https://www.youtube.com/watch?v=z7X95bn2T6A)。
 
-### 6. Cash flow 是營運氧氣 〔降級:啟發式〕
+### 6. Cash flow 是營運氧氣 〔降級：啟發式〕
 
 Profit、bank balance、預收和 owner cash 不是同一件事。危機中按 time-to-impact 處理現金機會與威脅；平時則把稅、薪金、退款、債務、履約和 working capital 納入 buffer。
 
@@ -252,7 +252,7 @@ Profit、bank balance、預收和 owner cash 不是同一件事。危機中按 t
 
 ## 五、人才：先定義結果，再找能獨立提高標準的人
 
-### 1. 招聘由 role scorecard 開始 〔降級:啟發式〕
+### 1. 招聘由 role scorecard 開始 〔降級：啟發式〕
 
 「請一個 marketing 人」不是需求。要先定義 6–12 個月 outcome、領先指標、必需判斷、工作情境和不可妥協條件；否則面試只能挑自己喜歡的人。
 
@@ -268,15 +268,15 @@ Profit、bank balance、預收和 owner cash 不是同一件事。危機中按 t
 
 代表影片：[281](https://www.youtube.com/watch?v=2lA_A8BGRRs)、[347](https://www.youtube.com/watch?v=okA9Yt2KZuk)、[365](https://www.youtube.com/watch?v=Lxp-e5NionA)。
 
-### 3. 管理者先補 What、Why、How 〔降級:啟發式〕
+### 3. 管理者先補 What、Why、How 〔降級：啟發式〕
 
-績效問題先問三層：員工知不知道要甚麼 outcome（What）、理解為何重要和如何取捨（Why）、掌握流程與技能（How）。三項清楚、資源充足後仍不做，才進入 motivation、role fit 或去留。
+績效問題先問三層：員工知不知道要什麼 outcome（What）、理解為何重要和如何取捨（Why）、掌握流程與技能（How）。三項清楚、資源充足後仍不做，才進入 motivation、role fit 或去留。
 
 **應用：**所有重要 delegation 由對方用自己語言重述，再做一次示範／回做與獨立驗收。
 
 代表影片：[297](https://www.youtube.com/watch?v=JDkiAxSd5Ms)、[422](https://www.youtube.com/watch?v=lIC8fYbrkII)。
 
-### 4. A-player 是較高 judgment，不只是更忙 〔降級:啟發式〕
+### 4. A-player 是較高 judgment，不只是更忙 〔降級：啟發式〕
 
 頂尖人才會理解 customer、economics 與 downstream 影響，主動改善問題定義，而非只完成字面任務。其價值常呈非線性，但仍需清楚系統與公平回報。
 
@@ -284,7 +284,7 @@ Profit、bank balance、預收和 owner cash 不是同一件事。危機中按 t
 
 代表影片：[437](https://www.youtube.com/watch?v=gpKz22P84iM)、[450](https://www.youtube.com/watch?v=-is6Z2T2h8o)、[474](https://www.youtube.com/watch?v=cemduJKQl5w)。
 
-### 5. Delegation 是移交 judgment 與 ownership 〔降級:啟發式〕
+### 5. Delegation 是移交 judgment 與 ownership 〔降級：啟發式〕
 
 交出 task 而保留所有決定，創辦人仍是 bottleneck。真正 delegation 需要 outcome、guardrails、decision rights、資源、scorecard 和 escalation；管理者對結果負責，owner 保持 nose in、hands out。
 
@@ -292,7 +292,7 @@ Profit、bank balance、預收和 owner cash 不是同一件事。危機中按 t
 
 代表影片：[420](https://www.youtube.com/watch?v=V7oUcAfof34)、[437](https://www.youtube.com/watch?v=gpKz22P84iM)、[447](https://www.youtube.com/watch?v=awOQDy_o9ww)。
 
-### 6. Incentive 要連到可控制的長期結果 〔降級:啟發式〕
+### 6. Incentive 要連到可控制的長期結果 〔降級：啟發式〕
 
 佣金、bonus、profit share 或 equity 只有在 measure、成本定義、歸因、期限、風險和離開條款清楚時才對齊。只獎 volume 會犧牲 fit，只獎短期 profit 會犧牲客戶與未來。
 
@@ -304,7 +304,7 @@ Profit、bank balance、預收和 owner cash 不是同一件事。危機中按 t
 
 ## 六、財富：先提高 earning power，再把 surplus 變成 ownership
 
-### 1. 小本金階段最有槓桿的是技能 〔降級:啟發式〕
+### 1. 小本金階段最有槓桿的是技能 〔降級：啟發式〕
 
 本金很小時，即使投資回報率高，絕對收益也有限。能直接提高收入、解決更大問題或取得更多 reps 的技能、工具與環境，通常更能增加未來可投資 surplus。
 
@@ -312,7 +312,7 @@ Profit、bank balance、預收和 owner cash 不是同一件事。危機中按 t
 
 代表影片：[122](https://www.youtube.com/watch?v=ymFWgFiKUvM)、[294](https://www.youtube.com/watch?v=dZ7xeVCYC5M)、[428](https://www.youtube.com/watch?v=CRMT2yubBxc)。
 
-### 2. 財富先來自收入與支出的 gap 〔降級:啟發式〕
+### 2. 財富先來自收入與支出的 gap 〔降級：啟發式〕
 
 高收入配高 recurring spending 仍沒有自由。擴大收入、延遲 lifestyle、降低不可逆 fixed cost，再把預先決定比例自動轉為資產，是第一層 compounding。
 
@@ -320,7 +320,7 @@ Profit、bank balance、預收和 owner cash 不是同一件事。危機中按 t
 
 代表影片：[37](https://www.youtube.com/watch?v=6BQ3whjWG3M)、[266](https://www.youtube.com/watch?v=q6SdmgIji30)、[306](https://www.youtube.com/watch?v=x1CtbsEqxW0)。
 
-### 3. 巨大財富通常來自 ownership 〔降級:啟發式〕
+### 3. 巨大財富通常來自 ownership 〔降級：啟發式〕
 
 薪金是出售時間或技能，ownership 則讓企業、code、media 或資產在沒有逐小時投入下增值。這同時帶來集中、流動性、治理和全損風險。
 
@@ -328,27 +328,27 @@ Profit、bank balance、預收和 owner cash 不是同一件事。危機中按 t
 
 代表影片：[15](https://www.youtube.com/watch?v=sL16tsGafcQ)、[292](https://www.youtube.com/watch?v=LMlbWtUFa4E)、[432](https://www.youtube.com/watch?v=ZfaZYFx89UU)。
 
-### 4. Revenue、profit、cash 與 net worth 必須分開 〔降級:啟發式〕
+### 4. Revenue、profit、cash 與 net worth 必須分開 〔降級：啟發式〕
 
 Contract value、累計 revenue、annual revenue、EBITDA、free cash flow、valuation 和 net worth 描述不同事物。沒有期間、ownership、債務、再投資和 liquidity，就不能比較。
 
-**應用：**看到任何財富聲稱先問：口徑是甚麼？期間？實收？直接成本？必要再投資？持股比例？可否出售？
+**應用：**看到任何財富聲稱先問：口徑是什麼？期間？實收？直接成本？必要再投資？持股比例？可否出售？
 
 代表影片：[426](https://www.youtube.com/watch?v=al_WXFDbN8I)、[448](https://www.youtube.com/watch?v=EPEjYEihZ1s)、[469](https://www.youtube.com/watch?v=9xAMe0QBFhU)。
 
-### 5. 投資先保 downside 和存活 〔降級:不收〕
+### 5. 投資先保 downside 和存活 〔降級：不收〕
 
 好的回報不能補救不可承受的 ruin。先看本金保護、流動性、順位、對手方、集中和 forced-sale 風險，再看 after-tax yield 與 upside。投資規則應在情緒出現前寫好。
 
-**應用：**所有投資寫一頁 memo：我理解甚麼、最壞情況、最大部位、退出、流動性、稅與如果錯了如何存活。
+**應用：**所有投資寫一頁 memo：我理解什麼、最壞情況、最大部位、退出、流動性、稅與如果錯了如何存活。
 
 代表影片：[260](https://www.youtube.com/watch?v=INm4U2S7Vu8)、[274](https://www.youtube.com/watch?v=GkL2KDOf2NM)、[431](https://www.youtube.com/watch?v=BnvkMpUu-7c)。
 
-### 6. 金錢最終是選擇權，不是身份 〔降級:不收〕
+### 6. 金錢最終是選擇權，不是身份 〔降級：不收〕
 
 金錢能買時間、安全、醫療與選擇，但邊際心理效用會下降。若遊戲只由比較和 status 驅動，達標後仍會空洞；更持久的是選擇自己願意長期玩的工作、關係和價值。
 
-**應用：**把財務目標連到「它讓我停止甚麼、開始甚麼、保護誰」；數字達標後仍要有生活內容。
+**應用：**把財務目標連到「它讓我停止什麼、開始什麼、保護誰」；數字達標後仍要有生活內容。
 
 代表影片：[123](https://www.youtube.com/watch?v=4Yz8ggEv0NU)、[434](https://www.youtube.com/watch?v=9xFtox66U28)、[466](https://www.youtube.com/watch?v=rnvOwA39dDg)。
 
@@ -356,7 +356,7 @@ Contract value、累計 revenue、annual revenue、EBITDA、free cash flow、val
 
 ## 七、個人成長：大量 reps、正確回饋、長期 focus
 
-### 1. Skill 由有回饋的 repetitions 形成 〔降級:啟發式〕
+### 1. Skill 由有回饋的 repetitions 形成 〔降級：啟發式〕
 
 「我不是 sales／marketing／math 的人」通常只是尚未完成足夠練習。課程提供模型，但真實 calls、offers、projects 和 game tape 才建立 pattern recognition。
 
@@ -364,7 +364,7 @@ Contract value、累計 revenue、annual revenue、EBITDA、free cash flow、val
 
 代表影片：[44](https://www.youtube.com/watch?v=vhOV_Od0A3M)、[456](https://www.youtube.com/watch?v=QbDFCbpmI6w)、[491](https://www.youtube.com/watch?v=yAVI0PS-hzU)。
 
-### 2. Focus 是關閉已知不應做的選項 〔降級:啟發式〕
+### 2. Focus 是關閉已知不應做的選項 〔降級：啟發式〕
 
 缺乏 focus 很少因完全不知道下一步，而是保留太多 side projects、未決合作和 attractive opportunities。規模越大，distraction 的金額和包裝越吸引。
 
@@ -372,7 +372,7 @@ Contract value、累計 revenue、annual revenue、EBITDA、free cash flow、val
 
 代表影片：[132](https://www.youtube.com/watch?v=TFxT3G5jwtU)、[391](https://www.youtube.com/watch?v=uRhArskhqms)、[498](https://www.youtube.com/watch?v=5Kt-EYieNko)。
 
-### 3. Decision quality 與單次 outcome 分開 〔降級:不收〕
+### 3. Decision quality 與單次 outcome 分開 〔降級：不收〕
 
 好決定可能遇到壞運氣，壞決定也可能偶然成功。應按當時資訊、base rate、概率、downside、可逆性和可重複性評估 process，再用結果更新假設。
 
@@ -380,11 +380,11 @@ Contract value、累計 revenue、annual revenue、EBITDA、free cash flow、val
 
 代表影片：[07](https://www.youtube.com/watch?v=fj5uxdv_j5Y)、[210](https://www.youtube.com/watch?v=Tu6YDG0AZ5k)、[467](https://www.youtube.com/watch?v=xQLQoGD6Sjg)。
 
-### 4. Failure 只有變成規則才是資產 〔降級:啟發式〕
+### 4. Failure 只有變成規則才是資產 〔降級：啟發式〕
 
 一次失敗不證明整個市場、人才或自己無效。記錄事件、區分內因外因與運氣、尋找重複模式，再把 lesson 變成 checklist、guardrail 或停止條件。
 
-**應用：**建立 failure log：發生甚麼、原先假設、真正根因、以後規則、下一次驗證。
+**應用：**建立 failure log：發生什麼、原先假設、真正根因、以後規則、下一次驗證。
 
 代表影片：[203](https://www.youtube.com/watch?v=0_Gf5v8DEMY)、[316](https://www.youtube.com/watch?v=QQGHCG8d1So)、[471](https://www.youtube.com/watch?v=FTgJ0mQi0uU)。
 
@@ -396,7 +396,7 @@ Contract value、累計 revenue、annual revenue、EBITDA、free cash flow、val
 
 代表影片：[157](https://www.youtube.com/watch?v=rhVxX5_8xUw)、[437](https://www.youtube.com/watch?v=gpKz22P84iM)、[508](https://www.youtube.com/watch?v=YQZK6JVkl4c)。
 
-### 6. 調低不合理 expectation，延長時間視野 〔降級:啟發式〕
+### 6. 調低不合理 expectation，延長時間視野 〔降級：啟發式〕
 
 異常快速成功會把 benchmark 拉到不健康水平；學習、企業和人生更像逐塊建橋。問每次投入是否令自己 closer，而不是一次便到終點。能維持十年的節奏通常比爆衝更有力量。
 
@@ -408,7 +408,7 @@ Contract value、累計 revenue、annual revenue、EBITDA、free cash flow、val
 
 ## 八、企業增長：不是更多事情，而是更強 economics 與下一個 constraint
 
-### 1. 先確認 business vehicle 〔降級:啟發式〕
+### 1. 先確認 business vehicle 〔降級：啟發式〕
 
 理想 vehicle 通常具備重要需求、支付力、健康 margin、重購／留存、可擴張分發與一定防守力；但不存在完美 business。選擇要配合能力、資本、控制與想要的生活。
 
@@ -420,7 +420,7 @@ Contract value、累計 revenue、annual revenue、EBITDA、free cash flow、val
 
 代表影片：[358](https://www.youtube.com/watch?v=F3NyhOtRpOE)、[481](https://www.youtube.com/watch?v=4XWlHPyAico)。
 
-### 3. 增長數學要倒拆到今天活動 〔降級:啟發式〕
+### 3. 增長數學要倒拆到今天活動 〔降級：啟發式〕
 
 Revenue／profit 目標可拆成客數 × 每客價值，再按 close、show、booking、response 和 reach 倒推每日行動；若最前端活動或 delivery capacity 不可能，便需改 price、conversion、model 或期限。
 
@@ -432,13 +432,13 @@ Revenue／profit 目標可拆成客數 × 每客價值，再按 close、show、b
 
 代表影片：[20](https://www.youtube.com/watch?v=0EqJD2o-Mnk)、[217](https://www.youtube.com/watch?v=I64gYLBrics)、[483](https://www.youtube.com/watch?v=vHi18F4yyH4)。
 
-### 5. 創辦人必須逐層放棄控制 〔降級:啟發式〕
+### 5. 創辦人必須逐層放棄控制 〔降級：啟發式〕
 
 由親自 delivery、admin、sales，到管理團隊和配置資本，每升一級都要把一部分工作與 judgment 交出去。若每間公司仍依賴 owner 做 homework，就沒有真正 portfolio 或自由。
 
 代表影片：[54](https://www.youtube.com/watch?v=mr4Pw66_490)、[420](https://www.youtube.com/watch?v=V7oUcAfof34)、[460](https://www.youtube.com/watch?v=sKCrYIWPHLc)。
 
-### 6. 時間與存活是最高級槓桿 〔降級:不收〕
+### 6. 時間與存活是最高級槓桿 〔降級：不收〕
 
 Compounding 只有在企業、聲譽、健康和關係仍能留在遊戲中才發生。避免一次致命錯誤，接受可持續增長，並把短期機會所得轉為長期能力與資產。
 
@@ -450,7 +450,7 @@ Compounding 只有在企業、聲譽、健康和關係仍能留在遊戲中才�
 
 每次企業卡住，只做以下 review：
 
-1. **目標：**未來 90 日唯一 business outcome 是甚麼？用 revenue、gross profit、cash、客戶結果或 owner time 說清。
+1. **目標：**未來 90 日唯一 business outcome 是什麼？用 revenue、gross profit、cash、客戶結果或 owner time 說清。
 2. **市場：**需求是否真實、可支付、可接觸，而且沒有明顯結構性收縮？
 3. **Offer：**客戶想要的結果、可信度、等待與努力，哪一項最弱？
 4. **Leads：**問題是沒有足夠 volume、fit 太差，還是 follow-up 流失？
@@ -461,7 +461,7 @@ Compounding 只有在企業、聲譽、健康和關係仍能留在遊戲中才�
 9. **Capacity：**多一倍 volume 時，哪個 role、流程或資源首先崩潰？
 10. **Talent：**owner 是因沒人、錯人、沒教會，還是不肯交 decision rights 而成為瓶頸？
 11. **Focus：**目前有哪些項目應結案、延後或拒絕，才能讓唯一 constraint 得到足夠資源？
-12. **Experiment：**未來 14 日最小而可逆的測試是甚麼？成功、停止和回顧條件是甚麼？
+12. **Experiment：**未來 14 日最小而可逆的測試是什麼？成功、停止和回顧條件是什麼？
 
 ## 十、Alex Hormozi 作為 advisor 的定位
 
